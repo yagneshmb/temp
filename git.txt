@@ -26,3 +26,5 @@ git maintains a remote branch when working with remote repositories
 Video : Updating the local Repository
 Add a new line in the file at the experimental branch
 
+Add a new line to files for pull-merge-push workflow 
+week 3 video : The Pull-Merge-Push Workflow
