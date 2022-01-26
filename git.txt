@@ -25,3 +25,6 @@ git maintains a remote branch when working with remote repositories
 
 Week 3: "Updating the local repository"
 Addling a line to main branch
+
+Week 3 : The pull-merge-push workflow
+Adding new line
