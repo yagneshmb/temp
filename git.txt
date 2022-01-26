@@ -1,0 +1,24 @@
+WE use "git checkout" cmd to list both the latest snapshot files and branches
+
+"git checkout -b branch_name" crates a new branch and switches to it
+
+head points to the latest branch update
+
+"git branch -d branch_name" deletes the branch if that is merged, ie after changing something or commiting not sure
+if we try to delete branch, it won't work
+
+"Merging" : The term that git used for combining branched data and history together
+
+Git uses two different algorithms to perform merging operations:
+	Fast-forward
+	Three-way-merge
+	
+	
+token : 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
+
+git remote -v
+when we run this cmd inside remote repo direcotry which is cloned we see two urls with name origin one if for fetch and other is for push, both are different in case of read only access kind of thing
+
+git remote show origin
+more information about our remote repo	
+git maintains a remote branch when working with remote repositories
