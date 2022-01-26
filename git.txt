@@ -22,3 +22,7 @@ when we run this cmd inside remote repo direcotry which is cloned we see two url
 git remote show origin
 more information about our remote repo	
 git maintains a remote branch when working with remote repositories
+
+Video : Updating the local Repository
+Add a new line in the file at the experimental branch
+
